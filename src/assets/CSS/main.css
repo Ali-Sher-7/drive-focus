@@ -1,0 +1,789 @@
+.navbar {
+  padding: 0px 50px 0px 50px;
+  height: 64px;
+}
+
+.nav-link:hover {
+  border-radius: 5px;
+  background-color: #ff8800;
+  color: white !important;
+}
+.nav-link {
+  font-size: 20px;
+  font-weight: 400;
+}
+.car {
+  background-image: url("../Images/car.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.cardiv {
+  padding: 215px;
+}
+.car p {
+  font-size: 130px;
+  font-weight: 700;
+  color: #ff8800;
+  line-height: 150px;
+}
+.videoDriving {
+  background-color: #454545;
+  padding: 100px 0px 100px 0px;
+}
+.videoDriving .card {
+  background-color: #454545;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.videoDriving .card h5 {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.videoDriving .card p {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+}
+.cornerCircle {
+  max-width: 436px;
+  max-height: 436px;
+  width: 100%;
+}
+.cornerCircle2 {
+  max-width: 436px;
+  max-height: 436px;
+  width: 100%;
+  margin-left: 30px;
+}
+.videoDriving h1 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 60px;
+}
+.pcimg {
+  max-width: 30px;
+  width: 100%;
+}
+.PcTabdiv {
+  margin-left: 70px;
+}
+.driverTraining h1 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 60px;
+  background-color: #ff8800;
+  border-radius: 0px 50px 50px 0px;
+}
+.driverTraining li {
+  font-size: 20px;
+  line-height: 50px;
+  font-weight: 400;
+}
+.uldiv {
+  margin-left: 65px;
+}
+.driverTraining {
+  background-image: url("../Images/sec3bg.png");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.clouddiv {
+  background-image: url("../Images/cloudRight.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 400px;
+  background-position-x: right;
+  padding: 80px 0px 50px 0px;
+}
+.mobileimg {
+  max-width: 181px;
+  max-height: 442px;
+  width: 100%;
+  height: 100%;
+}
+.mobileimg2 {
+  max-width: 480px;
+  max-height: 508px;
+  width: 100%;
+  height: 100%;
+}
+.mobileimg2div {
+  position: relative;
+  left: 75px;
+}
+.mobileimg1div {
+  position: relative;
+  /* top: 100px; */
+}
+.driverTraining h2 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #454545;
+}
+.readyToDrive {
+  background-color: #454545;
+  color: white;
+}
+.readyToDrive .innerdiv {
+  color: #505050;
+}
+.readyToDrive h1 {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+}
+.readyToDrive p {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.readyToDrive h3 {
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 90px;
+}
+.readyToDrive h6 {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+}
+.readyToDrive .innerdiv:hover {
+  background-color: #d9d9d9 !important;
+  cursor: pointer;
+}
+.confidentDriver {
+  background-image: url("../Images/confidentBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: start;
+  background-position-x: center;
+  padding: 100px 40px 100px 40px;
+}
+.btmborder {
+  border-bottom: 2px solid #ff8800;
+  width: 32%;
+  margin: 0 auto;
+  margin-bottom: 70px;
+}
+.borderbtm {
+  border-bottom: 2px solid #ff8800;
+  width: 32%;
+  margin: 0 auto;
+  margin-bottom: 115px;
+}
+.confidentDriver .card {
+  border: 2px solid #505050;
+  border-radius: 7px;
+  border-bottom: 7px solid #505050;
+}
+.confidentDriver h1 {
+  color: #ff8800;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+}
+.cdlink {
+  background-color: #ff8800;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  bottom: 45px;
+}
+/* .cdlink:hover {
+  background-color: white;
+  color: #505050 !important;
+  border: 2px solid #ff8800;
+} */
+.confidentDriver p {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #505050;
+}
+.personalDriving {
+  background-color: #454545;
+  padding: 90px;
+  background-image: url("../Images/cloudLeft.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 400px;
+  background-position-x: left;
+  /* padding: 80px 0px 50px 0px; */
+}
+.personalDriving h1 {
+  color: #ff8800;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+  border-radius: 50px;
+  border: 4px solid #ff8800;
+}
+.personalDriving li {
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  padding-bottom: 30px;
+}
+.personalDriving img {
+  width: 100%;
+}
+.personalDriving ul {
+  padding-right: 99px;
+}
+.cardSection {
+  background-image: url("../Images/personalDrivingBg.png");
+  padding: 100px 60px 100px 60px;
+}
+.cardSection h1 {
+  color: #ff8800;
+  text-align: center;
+}
+.cardSection .card {
+  background-color: #ff8800;
+  color: white;
+  margin: 0px;
+  border-radius: 7px;
+  transition: height 4s;
+}
+.cardSection .card h2 {
+  font-weight: 500;
+  font-size: 200px;
+  line-height: 300px;
+}
+.cardSection .card:hover {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+  z-index: 1;
+  /* padding-top: 20px 0px 20px 0px; */
+  transform: scale(1.1, 1.1);
+  transition: ease-in 1s;
+}
+.cardSection .card:hover h2 {
+  color: #ff8800 !important;
+}
+.cardSection .card p {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+}
+.cardSection .card-footer {
+  background-color: #ff8800;
+  border-top: none;
+}
+
+.cardSection .card:hover .card-footer {
+  background-color: white;
+}
+.cardSection button {
+  background-color: #ff8800;
+  color: white;
+  border: none;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  border-radius: 7px;
+  margin-top: 115px;
+}
+/* .cardSection button:hover {
+  border: 2px solid #ff8800;
+  color: #454545;
+  background-color: transparent;
+} */
+.footer1 {
+  background-color: #454545;
+  color: white;
+}
+.footer1 h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  /* text-align: center; */
+}
+.footer1 li {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+.footer1 a {
+  text-decoration: none;
+  color: white;
+}
+.footer2 p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  align-items: center;
+  margin-bottom: 0px;
+  text-align: center;
+}
+@media only screen and (max-width: 1221px) {
+  .car p {
+    font-size: 90px;
+    line-height: 90px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  #cdlink-user {
+    font-size: 14px !important;
+    padding: 0px 35px !important;
+    bottom: 35px;
+  }
+  #cdlink-endorsed {
+    font-size: 14px;
+    padding: 0px 35px !important;
+    bottom: 35px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .car p {
+    font-size: 90px;
+    line-height: 90px;
+  }
+  .cornerCircle,
+  .cornerCircle2 {
+    display: none;
+  }
+  .driverTraining h1 {
+    font-size: 30px;
+  }
+  .mobileimg {
+    max-height: 380px;
+    margin-top: 0px !important;
+  }
+  .mobileimg2 {
+    max-height: 380px;
+  }
+  .driverTraining h2 {
+    font-size: 30px;
+  }
+  .personalDriving li {
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    padding-bottom: 13px;
+  }
+  .personalDriving ul {
+    padding-right: 0px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .car p {
+    font-size: 52px;
+    line-height: 65px;
+  }
+  .videoDriving .card p {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 300;
+  }
+  .videoDriving .card h5 {
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  .videoDriving .card .card-body {
+    padding-right: 0px;
+  }
+  .pcimg {
+    width: 25px;
+  }
+  .videoDriving {
+    padding: 40px 0px 40px 0px;
+  }
+  .driverTraining h1 {
+    font-size: 23px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+  .driverTraining li {
+    font-size: 14px;
+    line-height: 35px;
+  }
+  .mobileimg2 {
+    max-height: 277px;
+  }
+  .mobileimg {
+    max-height: 290px;
+    margin-top: 0px !important;
+  }
+
+  .driverTraining h2 {
+    margin: 0px !important;
+  }
+  #root > section.driverTraining > div > div > div.col-md-6.w-100.h-100 > div {
+    padding-left: 0px !important;
+  }
+  .mobileimg2div {
+    left: 48px;
+  }
+  .confidentDriver {
+    padding: 20px 20px 20px 20px;
+  }
+  .btmborder {
+    margin-bottom: 35px;
+  }
+  .colcard {
+    padding: 0px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+  }
+  .cdlink {
+    font-size: 15px;
+    padding: 0px 15px 0px 15px !important;
+    bottom: 38px;
+  }
+
+  .confidentDriver p {
+    font-size: 15px;
+
+    line-height: 20px;
+  }
+  .personalDriving li {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    padding-bottom: 10px;
+  }
+  .personalDriving h1 {
+    font-size: 27px;
+    line-height: 30px;
+  }
+  #root
+    > section.personalDriving
+    > div
+    > div.row.mt-5
+    > div.col-md-6.pr-5.mt-5 {
+    margin-top: 0px !important;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+  .cardSection {
+    padding: 60px;
+  }
+  .borderbtm {
+    margin-bottom: 60px;
+  }
+  .cardSection .card h2 {
+    font-weight: 500;
+    font-size: 130px;
+    line-height: 120px;
+  }
+  .cardSection .card p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .nav-link {
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+  }
+  .car p {
+    font-size: 45px;
+    line-height: 45px;
+  }
+  .cardiv {
+    padding: 110px;
+  }
+  .pc-tab-div-p {
+    padding-top: 0px !important;
+  }
+  .pc-tab-row {
+    padding: 0px !important;
+  }
+  #root > section.driverTraining > div > div > div.col-md-6.w-100.h-100 > div {
+    justify-content: center;
+  }
+  .clouddiv {
+    padding-top: 25px;
+  }
+  .readyToDrive {
+    padding: 15px !important;
+  }
+  .readyToDrive h1 {
+    font-size: 35px;
+
+    line-height: 20px;
+  }
+  .readyToDrive p {
+    font-size: 15px;
+
+    line-height: 20px;
+  }
+  .readyToDrive h3 {
+    font-size: 40px;
+
+    line-height: 50px;
+  }
+  .readyToDrive h6 {
+    font-size: 14px;
+
+    line-height: 20px;
+  }
+  /* #root
+    > section.readyToDrive.py-5
+    > div
+    > div
+    > div.row
+    > div.col-md-12.py-3.px-5.mb-5.mt-3.innerdiv.bg-white.rounded
+    > div
+    > div.d-flex.justify-content-center.align-items-center.ml-5.mr-2 {
+    margin-left: 21px !important;
+  } */
+  .readyToDrive .innerdiv {
+    margin-bottom: 20px !important;
+  }
+  .cdlink {
+    font-size: 24px;
+    padding: 9px 33px 9px 33px !important;
+    bottom: 45px;
+  }
+  .confidentDriver p {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .personalDriving li {
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    padding-bottom: 10px;
+  }
+  .personalDriving {
+    padding: 40px 25px;
+    background-image: none;
+  }
+  .personalDriving h1 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  #root > section.personalDriving > div > div.row.mt-5 {
+    margin-top: 15px !important;
+  }
+  .cardSection {
+    padding: 25px;
+  }
+  .cardSection h1 {
+    font-size: 28px;
+  }
+  .borderbtm {
+    margin-bottom: 30px;
+  }
+  .cardSection .card {
+    width: 70% !important;
+    padding-bottom: 15px;
+  }
+  .cardSection .card h2 {
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 185px;
+  }
+  .cardSection button {
+    margin-top: 30px;
+  }
+  #root > section.cardSection > div > div.row > div:nth-child(2) > div {
+    padding-bottom: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .nav-link {
+    width: 20%;
+
+    font-size: 14px;
+  }
+  .car p {
+    font-size: 39px;
+  }
+  .PcTabdiv {
+    margin-left: 38px;
+  }
+
+  .videoDriving h1 {
+    font-size: 30px;
+  }
+
+  #root > section.readyToDrive.py-5 > div > div {
+    padding: 0px !important;
+    margin: 10px !important;
+  }
+  .readyToDrive .innerdiv {
+    padding: 15px !important;
+  }
+  .h6div {
+    margin-left: 14px !important;
+  }
+  .cardSection button {
+    margin-top: 30px;
+    font-size: 18px;
+    padding: 3px 20px !important;
+  }
+  .footer1 {
+    padding: 15px 0px !important;
+  }
+  .footer1 h3 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    margin-bottom: 15px !important;
+  }
+  .footer1 li {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 15px;
+  }
+  .footer1 p {
+    font-size: 12px;
+  }
+  .footer2 p {
+    font-size: 12px;
+    line-height: 0px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .nav-link {
+    width: 32%;
+
+    font-size: 14px;
+  }
+  .cardiv {
+    padding: 85px;
+  }
+  .car p {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .videoDriving h1 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .videoDriving img {
+    /* width: 100%; */
+  }
+  .driverTraining h1 {
+    font-size: 18px;
+    line-height: 40px;
+  }
+  .driverTraining li {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .uldiv {
+    margin-left: 20px;
+  }
+  .driverTraining h2 {
+    font-size: 20px;
+    line-height: 35px;
+  }
+  .mobileimg {
+    max-height: 205px;
+  }
+  .mobileimg2 {
+    max-height: 185px;
+  }
+  .mobileimg2div {
+    left: 25px;
+  }
+  .readyToDrive h1 {
+    font-size: 30px;
+    line-height: 27px;
+    margin-bottom: 12px !important;
+  }
+  .readyToDrive p {
+    font-size: 13px;
+    line-height: 16px;
+  }
+  .readyToDrive h6 {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .readyToDrive h3 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .cdlink {
+    font-size: 15px;
+    padding: 0px 15px 0px 15px !important;
+    bottom: 38px;
+  }
+
+  .confidentDriver p {
+    font-size: 15px;
+
+    line-height: 20px;
+  }
+  .confidentDriver h1 {
+    color: #ff8800;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 40px;
+  }
+  .btmborder {
+    width: 80%;
+  }
+  .personalDriving {
+    padding: 40px 0px;
+  }
+  .personalDriving h1 {
+    font-size: 14px;
+    line-height: 15px;
+    padding: 7px 14px !important;
+  }
+  #root
+    > section.personalDriving
+    > div
+    > div.row.mt-5
+    > div.col-md-6.pr-5.mt-5 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+  .personalDriving li {
+    color: white;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 10px;
+  }
+  .cardSection {
+    padding: 25px 0px;
+  }
+  .borderbtm {
+    width: 70%;
+  }
+  .cardSection .card h2 {
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 100px;
+  }
+  .cardSection .card p {
+    font-size: 15px;
+  }
+}
